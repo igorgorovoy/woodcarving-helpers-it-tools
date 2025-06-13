@@ -4,7 +4,9 @@
 
 # 🛠️ Wood Carving Helper Tools
 
-A collection of useful Python scripts for image processing and PDF creation for wood carving projects.
+A collection of useful Python scripts for image processing and PDF creation for wood carving projects.  
+
+ ![vibe result](vibe.png)
 
 ## 🧰 Available Tools
 
